@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/31/ca016961-a200-4946-8723-93b0e282c99f_davidprimerplano---c.jpg"
       },
       "location": {
-        "notes": "Silla"
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Silla"
       }
     },
     "relevantLinks": [
@@ -37,6 +39,45 @@
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Essam Tecnología",
+          "URL": "https://www.pcuv.es/es/empresas/tic/esam"
+        },
+        "roles": [
+          {
+            "name": "Java developer",
+            "startDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "En este puesto estoy a cargo de dar soporte y nuevas a funcionalidades a varios proyectos implementados con tecnologías J2EE.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Lissit-IRTIC",
@@ -203,6 +244,11 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
     }
   }
