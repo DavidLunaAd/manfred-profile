@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "David",
       "surnames": "Luna Acosta",
       "title": "Técnico superior en desarrollo de aplicaciones web",
-      "description": "Tengo mas de 10 años de experiencia laboral, pero recien ahora he podido terminar mis estudios y poder dedicarme a algo que me interesa y me permite superarme. ",
+      "description": "Soy una persona que sabe lo que es sacrificarse por conseguir objetivos, y busco donde poder seguir haciéndolo. Donde poder crecer y avanzar a la vez que disfrutar de cada paso. Tengo una amplia experiencia laboral y en cada sitio he\naprendido y compartido. Llevo tres años compaginando estudios con trabajo y vida adulta y busco donde poder seguir motivándome a aprender constantemente ",
       "avatar": {
         "alt": "DavidPrimerplano - copia.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/31/ca016961-a200-4946-8723-93b0e282c99f_davidprimerplano---c.jpg"
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Silla"
+        "municipality": "Silla",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -135,7 +136,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -250,6 +256,7 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
