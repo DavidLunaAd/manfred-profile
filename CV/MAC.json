@@ -226,6 +226,61 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado Superior desarrollo de aplicaciones web",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "Jesuítes - UOC",
+          "description": "- Completados 10 proyectos y 12 seminarios con las tecnologías más actuales y utilizadas del\nsector.\n- Proyectos backend, frontend y manejo de datos.\n- Sistemas operativos y herramientas de organización y comunicación.\n- Realización de prácticas como desarrollador fullstack con J2EE"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "Apache Tomcat",
+            "type": "technology"
+          },
+          {
+            "name": "Eclipse",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          },
+          {
+            "name": "WordPress",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
