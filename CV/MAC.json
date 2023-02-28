@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Silla",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Silla"
       }
     },
     "relevantLinks": [
@@ -42,7 +41,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "Essam Tecnología",
+          "name": "Esam Tecnología",
           "URL": "https://www.pcuv.es/es/empresas/tic/esam"
         },
         "roles": [
@@ -136,12 +135,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -268,7 +265,6 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
