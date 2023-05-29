@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,25 +11,16 @@
       "title": "Técnico superior en desarrollo de aplicaciones web",
       "description": "Soy una persona que sabe lo que es sacrificarse por conseguir objetivos. Busco donde poder seguir haciéndolo. Donde poder crecer y avanzar a la vez que disfrutar de cada paso. Tengo una amplia experiencia laboral y en cada sitio he aprendido y\ncompartido algo. Tras varios años compaginando estudios con trabajo y vida adulta ahora busco donde poder seguir motivándome a crecer.",
       "avatar": {
-        "alt": "DavidPrimerplano - copia.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/31/ca016961-a200-4946-8723-93b0e282c99f_davidprimerplano---c.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/31/ca016961-a200-4946-8723-93b0e282c99f_davidprimerplano---c.jpg",
+        "alt": "DavidPrimerplano - copia.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJtYxgP1VMYA0RLEeG67Z3Yys)",
         "country": "España",
         "region": "Comunidad Valenciana",
         "municipality": "Silla"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/DavidLunaAd"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/david-luna-contacto/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Me gusta tocar la guitarra, el rock y la fotografia",
@@ -135,13 +126,63 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Inglés",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ibatis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "PHP",
@@ -168,60 +209,6 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Eclipse",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Photoshop",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ibatis",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Visual Studio Code",
           "type": "technology"
         }
@@ -233,11 +220,11 @@
         "degreeAchieved": true,
         "name": "Grado Superior desarrollo de aplicaciones web",
         "startDate": "2022-03-01",
-        "finishDate": "2022-03-01",
         "institution": {
           "name": "Jesuítes - UOC",
           "description": "- Completados 10 proyectos y 12 seminarios con las tecnologías más actuales y utilizadas del\nsector.\n- Proyectos backend, frontend y manejo de datos.\n- Sistemas operativos y herramientas de organización y comunicación.\n- Realización de prácticas como desarrollador fullstack con J2EE"
         },
+        "finishDate": "2022-03-01",
         "linkedCompetences": [
           {
             "name": "Angular2+",
@@ -281,14 +268,47 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de recibir feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento creativo",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/david-luna-contacto/"
+          "URL": "https://www.linkedin.com/in/david-luna-contacto/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/DavidLunaAd",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "davidlunaad@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "655868563",
+          "countryCode": "+34"
         }
       ]
     },
@@ -320,6 +340,10 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Debido a mi experiencia en otros sectores, me gustaría estar aprendiendo y aplicando nuevas metodologías y soluciones constantemente. Hacer que las cosas vayan a la par, para que una tarea lleve a la otra de una mejor manera."
   }
 }
