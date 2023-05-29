@@ -191,6 +191,12 @@
       },
       {
         "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -344,12 +350,6 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
-    "mainStackTechs": [
-      {
-        "name": "J2EE",
-        "type": "technology"
-      }
-    ],
     "desiredJobDescription": "Debido a mi experiencia en otros sectores, me gustaría estar aprendiendo y aplicando nuevas metodologías y soluciones constantemente. Hacer que las cosas vayan a la par, para que una tarea lleve a la otra de una mejor manera."
   }
 }
