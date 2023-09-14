@@ -32,6 +32,36 @@
     "jobs": [
       {
         "organization": {
+          "name": "IRTIC"
+        },
+        "roles": [
+          {
+            "name": "Desarrolladore web",
+            "startDate": "2023-05-01",
+            "challenges": [
+              {
+                "description": "Desarrollo en equipo de proyecto para gestión de datos para UV y  otras.\nProgramación  back con Spring JEE, front con Angular 13 y datos con MariaDB.\nImplementación fullstack. Herramientas: VsCode, SVN Subversion, DBeaver, Postman, etc.\nColaboración proyecto para la AGPD para la descarga de formulario de consultas. JEE, Wildfly, Primefaces."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Esam Tecnología",
           "URL": "https://www.pcuv.es/es/empresas/tic/esam"
         },
