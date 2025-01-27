@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -25,6 +25,16 @@
       {
         "topic": "Me gusta tocar la guitarra, el rock y la fotografia",
         "fact": "Me gusta tocar con amigos canciones propias y del mundo pop-rock en modo amateur. Lo mismo ocurre con la fotografía, tengo una cámara que me gusta utilizar en modo manual y buscar colores y situaciones."
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/david-luna-contacto/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/DavidLunaAd"
       }
     ]
   },
@@ -81,11 +91,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JSP",
                 "type": "technology"
               },
               {
-                "name": "JSP",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -129,11 +139,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Jasper Reports",
                 "type": "technology"
               },
               {
-                "name": "Jasper Reports",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -158,44 +168,16 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "Adobe Photoshop",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ibatis",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "J2EE",
@@ -204,49 +186,25 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Microsoft Power BI",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "Pentaho",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "REST",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
           "type": "technology"
         }
       }
@@ -276,7 +234,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -338,15 +296,6 @@
           "URL": "https://github.com/DavidLunaAd",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "davidlunaad@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "655868563",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -356,7 +305,7 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -380,6 +329,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "J2EE",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Power BI",
+        "type": "technology"
+      },
+      {
+        "name": "Pentaho",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Debido a mi experiencia en otros sectores, me gustaría estar aprendiendo y aplicando nuevas metodologías y soluciones constantemente. Hacer que las cosas vayan a la par, para que una tarea lleve a la otra de una mejor manera."
   }
 }
